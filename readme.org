@@ -1,6 +1,8 @@
 # Copyright 2019 Manna Harbour
 # https://github.com/manna-harbour/miryoku
 
+See https://github.com/Deohgu/miryoku_qmk/tree/miryoku/users/manna-harbour_miryoku
+
 * Miryoku QMK Development Branch Repository [[https://raw.githubusercontent.com/manna-harbour/miryoku/master/data/logos/miryoku-roa-32.png]]
 
 [[https://raw.githubusercontent.com/manna-harbour/miryoku/master/data/cover/miryoku-kle-cover.png]]
